@@ -1,5 +1,5 @@
 
-<img align="center" src="https://media.licdn.com/dms/image/D4D16AQFju6FLqA7Ihg/profile-displaybackgroundimage-shrink_350_1400/0/1682013494853?e=1695254400&v=beta&t=VLhSKwEoJkeBd3Uv4DLENwRnJfQ_75ps9wtrU_TkuK4" alt="https://www.linkedin.com/in/khawar-sultan-989314209/" height="230" width="1200" />
+<img align="center" src="https://res.cloudinary.com/denajbnh4/image/upload/v1691164910/Frontend_Developer_nmsrbx.png" alt="https://www.linkedin.com/in/khawar-sultan-989314209/" height="230" width="1200" />
 
 <h1 align="left">Hi 👋, I'm Khawar Sultan</h1>
 <h2 align="left">Frontend Developer</h3>
