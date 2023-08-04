@@ -1,5 +1,5 @@
 
-<img align="center" src="https://res.cloudinary.com/denajbnh4/image/upload/v1691166035/Frontend_Developer_ebtk4z.png" alt="https://www.linkedin.com/in/khawar-sultan-989314209/" height="260" width="1200" />
+<img align="center" src="https://res.cloudinary.com/denajbnh4/image/upload/v1691166035/Frontend_Developer_ebtk4z.png" alt="https://www.linkedin.com/in/khawar-sultan-989314209/" height="260" width="1400" />
 
 <h1 align="left">Hi 👋, I'm Khawar Sultan</h1>
 <h2 align="left">Frontend Developer</h3>
