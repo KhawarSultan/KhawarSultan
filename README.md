@@ -52,7 +52,7 @@ I am a front-end developer specializing in React and Next Js.
 <b>My GitHub Stats</b>
 
 <p align="left">
-<a href="https://github.com/KhawarSultan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhawarSultan&langs_count=10&title_color=74E651&text_color=74E651&icon_color=74E651&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p><p align="left"> <a href="https://github.com/KhawarSultan" align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=khawarsultan&show_icons=true&title_color=74E651&text_color=74E651&icon_color=74E651&bg_color=1c1917&hide_border=true&locale=en" alt="khawarsultan" /></a></p>
+<a href="https://github.com/KhawarSultan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhawarSultan&langs_count=10&title_color=0047FF&text_color=0047FF&icon_color=0047FF&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p><p align="left"> <a href="https://github.com/KhawarSultan" align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=khawarsultan&show_icons=true&title_color=0047FF&text_color=0047FF&icon_color=0047FF&bg_color=ffffff&hide_border=true&locale=en" alt="khawarsultan" /></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khawarsultan&" alt="khawarsultan" /></p>
 
 
