@@ -50,9 +50,13 @@ I am a front-end developer specializing in React and Next Js.
 
 
 <b>My GitHub Stats</b>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhawarSultan&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=khawarsultan&theme=react" width="48%" >
+<br>
 
 <p align="left">
-<a href="https://github.com/KhawarSultan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhawarSultan&langs_count=10&title_color=0047FF&text_color=0047FF&icon_color=0047FF&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p><p align="left"> <a href="https://github.com/KhawarSultan" align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=khawarsultan&show_icons=true&title_color=0047FF&text_color=0047FF&icon_color=0047FF&bg_color=ffffff&hide_border=true&locale=en" alt="khawarsultan" /></a></p>
+<a href="https://github.com/KhawarSultan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhawarSultan&langs_count=10&title_color=0047FF&text_color=0047FF&icon_color=0047FF&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p><p align="left">
+<a href="https://github.com/KhawarSultan" align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=khawarsultan&show_icons=true&title_color=0047FF&text_color=0047FF&icon_color=0047FF&bg_color=ffffff&hide_border=true&locale=en" alt="khawarsultan" /></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khawarsultan&" alt="khawarsultan" /></p>
 
 
