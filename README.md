@@ -51,7 +51,7 @@ I am a front-end developer specializing in React and Next Js.
 
 <b>My GitHub Stats</b>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhawarSultan&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-stats.vercel.app/api?username=khawarsultan&theme=react" width="48%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=khawarsultan&theme=react" width="48%" >
 <br>
 
 <p align="left">
