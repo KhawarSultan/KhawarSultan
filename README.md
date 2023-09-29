@@ -6,7 +6,7 @@
 
 I am a front-end developer specializing in React and Next Js.
 
-- 🔭 Currently I’m working on **Docket Notes React app**
+- 🔭 Currently I’m working on **Vendra React app**
 
 - 🌱 I’m currently learning **React & Next Js**
 
