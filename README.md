@@ -8,7 +8,7 @@ I am a front-end developer specializing in React and Next Js.
 
 - 🔭 Currently I’m working on **Vendra React app**
 
-- 🌱 I’m currently learning **React & Next Js**
+- 🌱 I’m currently working on **React & Next Js**
 
 - 👨‍💻 Checkout my **[Portfolio](khawarportfolio.netlify.app)**
 
